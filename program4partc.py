@@ -18,5 +18,3 @@ def stringFunc(str):
 		
 #Print the string using the created function
 print(stringFunc(string)) 
-
-print("hello")
